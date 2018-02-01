@@ -1,0 +1,33 @@
+.bottombutton{
+    position: absolute;
+    display: flex;
+    align-items: center;
+}
+
+.bottombuttonClick{
+    width: 16px;
+    height: 16px;
+    border-radius: 999px;
+    border:2px solid red;
+    background-color: red;
+    margin: 3px;
+}
+
+.bottombuttonItme{
+    width: 16px;
+    height: 16px;
+    border-radius: 999px;
+    border:2px solid rgb(57, 199, 39);
+    background-color: #ccc;
+    margin: 3px;
+}
+
+.leftbutton{
+    position: absolute;
+    background-color: rgba(204, 204, 204, 0.397);
+    text-align: center;
+    color: #ccc
+}
+.leftbutton:active{
+    color: rgb(71, 233, 22)
+}
